@@ -260,3 +260,5 @@ DEPENDENCIES
 
 BUNDLED WITH
    1.17.3
+em  " kramdown " , " > = 2.3.1 "
+
